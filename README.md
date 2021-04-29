@@ -1,7 +1,5 @@
 # Introduction
 
-<br></br>
-Take me to the [code and Jupyter Notebook](https://github.com/AMoazeni/Machine-Learning-Stock-Market-Prediction/blob/master/Jupyter%20Notebook/ML%20-%20Stock%20Market%20Prediction.ipynb) for Stock Market Prediction!
 
 <br></br>
 This article explores a Machine Learning algorithm called Recurrent Neural Network (RNN), it's a common Deep Learning technique used for continuous data pattern recognition. Recurrent Neural Network take into account how data changes over time, it's typically used for time-series data (stock prices, sensor readings, etc). Recurrent Neural Network can also be used for video analysis.
